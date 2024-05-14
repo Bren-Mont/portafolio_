@@ -42,6 +42,8 @@ const About = () => {
         leer y trotar. Creo firmemente en la importancia de mantener un
         equilibrio entre el trabajo y la vida personal para mantener la
         creatividad y la motivación en todo momento.
+
+        Conoce mas de mi!!
       </p>
       </div>
     </Card>
